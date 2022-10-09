@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **animepedia**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently practicing **React**
 
 - 💬 Ask me about **MERN, Java**
 
