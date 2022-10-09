@@ -4,7 +4,7 @@
 <br>
 
 
-- 🔭 I’m currently working on **Leucos**
+- 🔭 I’m currently working on **animepedia**
 
 - 🌱 I’m currently learning **React**
 
