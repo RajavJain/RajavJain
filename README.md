@@ -29,6 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajavjain&" alt="rajavjain" /></p>
 
-##Snake eating my contribution graph
+Snake eating my contribution graph
 ![snake gif](https://github.com/RajavJain/RajavJain/blob/output/github-contribution-grid-snake.gif)
 
