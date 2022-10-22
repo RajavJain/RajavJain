@@ -4,7 +4,7 @@
 <br>
 
 
-- 🔭 I’m currently working on **mi-mobile**
+- 🔭 I’m currently updating **Text-Utils1.0**
 
 - 🌱 I’m currently practicing **React**
 
