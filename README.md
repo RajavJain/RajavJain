@@ -4,9 +4,9 @@
 <br>
 
 
-- 🔭 I’m currently working on **Docker**
+- 🔭 I’m currently working on **Cart**
 
-- 🌱 I’m currently practicing **React**
+- 🌱 I’m currently practicing **Redux**
 
 - 💬 Ask me about **MERN, Java**
 
