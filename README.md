@@ -4,7 +4,7 @@
 <br>
 
 
-- 🔭 I’m currently working on **Cart**
+- 🔭 I’m currently working on **Algorithmic Trading **
 
 - 🌱 I’m currently practicing **Redux**
 
