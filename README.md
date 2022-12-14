@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Algorithmic_Trading**
 
-- 🌱 I’m currently practicing **Redux**
+- 🌱 I’m currently practicing **DSA**
 
 - 💬 Ask me about **MERN, Java**
 
